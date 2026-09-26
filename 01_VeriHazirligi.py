@@ -1,5 +1,5 @@
 import pandas as pd
-
+from datetime import date
 import random 
 from faker import Faker
 fake=Faker()
@@ -239,14 +239,16 @@ tyt_religious_culture_achievement = [
     "Vahiy ve akıl ilişkisini İslam düşüncesi bağlamında değerlendirir."
 ]
 
-for i in range (1,101):
+#Ogrenci olusturma
+for i in range (1,201):
     student_id=i
     name_surname=fake.name()
     random_class=random.choice(classes)
-    ogrenci_sozluk={"Id":student_id,"Name_Surname":name_surname,"Class":random_class}
+    random_success_rate=random.randint(10, 98) #Her bir ogrenci için 40-98 aralığında random başarı oranı seçilir. Bu öğrencilerin cevaplarının alındığı kısımda kullanıldı
+    ogrenci_sozluk={"Id":student_id,"Name_Surname":name_surname,"Student_Success_Rate":random_success_rate,"Class":random_class}
     data_set["ogrenciler"].append(ogrenci_sozluk)
   
-def random_achievement(exam_id,question_count,achievements,lesson):
+def create_question(exam_id,question_count,achievements,lesson):
     test={"exam_id": exam_id,
           "lesson":lesson,
           "Question_Number":question_count,
@@ -255,48 +257,58 @@ def random_achievement(exam_id,question_count,achievements,lesson):
     data_set["soru_kazanimlari"].append(test)
 
 #sınav oluşturma
-for i in range(1,4):
+for i in range(1,41):
     exam={"exam_id":str(i),
           "exam_name":"tyt",
-          "exam_date":"2026-05-"+str(i)}
+          "exam_date":fake.date_between(start_date=date(2026, 9, 10),end_date=date(2027, 6, 10))}
     data_set["sinavlar"].append(exam)
 question_count=1
 
 #Verilen kazanımlar rastgele seçilerek sınav id si ile soru_kazanimlari listesine eklenir
-for i in range(1,4):
+for i in range(1,41):
     while question_count<121:
         if 0<question_count and question_count<41:
-            random_achievement(i,question_count, tyt_turkish_achievement,"Türkçe")
+            create_question(i,question_count, tyt_turkish_achievement,"Türkçe")
         elif 40<question_count and question_count<76:
-            random_achievement(i,question_count, tyt_math_achievement,"Matematik")
+            create_question(i,question_count, tyt_math_achievement,"Matematik")
         elif 75<question_count and question_count<81:
-            random_achievement(i,question_count, tyt_geometry_achievement,"Geometri")
+            create_question(i,question_count, tyt_geometry_achievement,"Geometri")
         elif 80<question_count and question_count<86:
-            random_achievement(i,question_count, tyt_history_achievement,"Tarih")
+            create_question(i,question_count, tyt_history_achievement,"Tarih")
         elif 85<question_count and question_count<91:
-            random_achievement(i,question_count, tyt_geography_achievement,"Cografya")
+            create_question(i,question_count, tyt_geography_achievement,"Cografya")
         elif 90<question_count and question_count<96:
-            random_achievement(i,question_count, tyt_philosophy_achievement,"Felsefe")
+            create_question(i,question_count, tyt_philosophy_achievement,"Felsefe")
         elif 95<question_count and question_count<101:
-            random_achievement(i,question_count, tyt_religious_culture_achievement,"Din Kültürü ve Ahlak Bilgisi")
+            create_question(i,question_count, tyt_religious_culture_achievement,"Din Kültürü ve Ahlak Bilgisi")
         elif 100<question_count and question_count<108:
-            random_achievement(i,question_count, tyt_physics_achievement,"Fizik")
+            create_question(i,question_count, tyt_physics_achievement,"Fizik")
         elif 107<question_count and question_count<115:
-            random_achievement(i,question_count, tyt_chemistry_achievement,"Kimya")
+            create_question(i,question_count, tyt_chemistry_achievement,"Kimya")
         elif 114<question_count and question_count<121:
-            random_achievement(i,question_count, tyt_biology_achievement,"Biyoloji")
+            create_question(i,question_count, tyt_biology_achievement,"Biyoloji")
         question_count+=1
 
 #Öğrencilerin cevapları alınır ogrenci_sonuclari listesine eklenir
-for x in range(1,3):
+for x in range(1,41):
     for i in range(1,len(data_set["ogrenciler"])+1):
+        
         student_id=data_set["ogrenciler"][i-1]["Id"]
         student_name=data_set["ogrenciler"][i-1]["Name_Surname"]
+        student_success=data_set["ogrenciler"][i-1]["Student_Success_Rate"]
         student_class=data_set["ogrenciler"][i-1]["Class"]
-        
         for a in range(1,len(data_set["soru_kazanimlari"])+1):
-            answer=random.choice(["A","B","C","D","E",""])
+            options=["A","B","C","D","E",""]
+            selection_weights=[]
             trueAnswer=data_set["soru_kazanimlari"][a-1]["Answer"]
+            for j in range(0,len(options)):
+                if options[j]==trueAnswer:
+                    selection_weights.append(student_success)#Doğru cevabın seçim ağırlığına öğrencinin başarı oranı atanır. Çünkü başarılı bir öğrencinin doğru cevabı seçme olasılığı daha yüksektir
+                else:
+                    incorrect_answe_rate_for_each_options=(100-student_success)/5 #Doğru cevap dışında kalan 4 seçenek ve boş bırakma, seçilme durumlarının ağırlığı hesaplanır
+                    selection_weights.append(incorrect_answe_rate_for_each_options)
+            answer=random.choices(options,weights=selection_weights,k=1)[0]
+            question_achievement=data_set["soru_kazanimlari"][a-1]["Question_Achievement"]
             if trueAnswer == answer:
                 result="true"
             elif answer=="":
@@ -310,7 +322,8 @@ for x in range(1,3):
                          "question_number":a,
                          "true_answer":trueAnswer,
                          "student_answer":answer,
-                         "result":result}
+                         "result":result,
+                         "achievement":question_achievement}
             data_set["ogrenci_sonuclari"].append(answer_data)
         
         

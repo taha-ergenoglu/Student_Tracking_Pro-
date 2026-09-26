@@ -1,121 +1,121 @@
 exam_id,lesson,Question_Number,Question_Achievement,Answer
-1,Türkçe,1,Fiilimsilerin (eylemsi) metin içindeki işlevlerini belirler.,E
-1,Türkçe,2,"Metnin yapı özelliklerini (giriş, gelişme, sonuç) analiz eder.",B
-1,Türkçe,3,"Sözcük türlerini (isim, sıfat, zamir, zarf, edat, bağlaç, ünlem) metin içinde ayırt eder.",D
-1,Türkçe,4,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,B
-1,Türkçe,5,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,E
-1,Türkçe,6,Fiillerin (eylem) anlam özelliklerini ve çekimlerini kavrar.,C
-1,Türkçe,7,"Cümle türlerini (yapısına, anlamına, yükleminin türüne göre) sınıflandırır.",B
-1,Türkçe,8,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,A
-1,Türkçe,9,Metindeki sözcüklerin ve söz öbeklerinin anlamlarını belirler.,B
-1,Türkçe,10,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,E
-1,Türkçe,11,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,E
-1,Türkçe,12,Metinler arası karşılaştırma yapar.,C
-1,Türkçe,13,"Söz sanatlarını (teşbih, istiare, mübalağa vb.) tespit eder.",C
-1,Türkçe,14,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,B
-1,Türkçe,15,Paragrafta anlatım biçimleri ve düşünceyi geliştirme yollarını belirler.,A
-1,Türkçe,16,"Kelimede anlam olaylarını (mecaz, yan anlam, terim anlam) ayırt eder.",A
-1,Türkçe,17,"Sözcük türlerini (isim, sıfat, zamir, zarf, edat, bağlaç, ünlem) metin içinde ayırt eder.",E
-1,Türkçe,18,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,C
-1,Türkçe,19,"Farklı metin türlerinin (makale, deneme, fıkra vb.) özelliklerini kavrar.",E
-1,Türkçe,20,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,C
-1,Türkçe,21,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,D
-1,Türkçe,22,Görsel ve işitsel metinleri yorumlar.,D
-1,Türkçe,23,Cümlenin ögelerini doğru bir şekilde bulur.,C
-1,Türkçe,24,"Cümle türlerini (yapısına, anlamına, yükleminin türüne göre) sınıflandırır.",A
-1,Türkçe,25,"Söz sanatlarını (teşbih, istiare, mübalağa vb.) tespit eder.",A
-1,Türkçe,26,Paragrafta anlatım biçimleri ve düşünceyi geliştirme yollarını belirler.,D
-1,Türkçe,27,Metin üzerinde yazım kurallarını ve noktalama işaretlerini uygular.,C
-1,Türkçe,28,"Metnin yapı özelliklerini (giriş, gelişme, sonuç) analiz eder.",D
-1,Türkçe,29,"Cümlede anlam ilişkilerini (neden-sonuç, amaç-sonuç, koşul vb.) çözer.",A
-1,Türkçe,30,Metindeki ses olaylarını ayırt eder.,C
-1,Türkçe,31,Metinler arası karşılaştırma yapar.,C
-1,Türkçe,32,"Cümle türlerini (yapısına, anlamına, yükleminin türüne göre) sınıflandırır.",E
-1,Türkçe,33,"Cümlede anlam ilişkilerini (neden-sonuç, amaç-sonuç, koşul vb.) çözer.",A
-1,Türkçe,34,Metindeki ses olaylarını ayırt eder.,D
-1,Türkçe,35,Cümlenin ögelerini doğru bir şekilde bulur.,E
-1,Türkçe,36,"Cümlede anlam ilişkilerini (neden-sonuç, amaç-sonuç, koşul vb.) çözer.",A
-1,Türkçe,37,"Söz sanatlarını (teşbih, istiare, mübalağa vb.) tespit eder.",E
-1,Türkçe,38,"Sözcük türlerini (isim, sıfat, zamir, zarf, edat, bağlaç, ünlem) metin içinde ayırt eder.",E
-1,Türkçe,39,Görsel ve işitsel metinleri yorumlar.,D
-1,Türkçe,40,"Kelimede anlam olaylarını (mecaz, yan anlam, terim anlam) ayırt eder.",E
-1,Matematik,41,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",A
-1,Matematik,42,Oran ve orantı kavramlarını kullanarak gerçek hayat problemlerini çözer.,D
-1,Matematik,43,Kartezyen çarpım kavramını ve özelliklerini açıklar.,D
-1,Matematik,44,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,A
-1,Matematik,45,Tam sayılarda bölünebilme kurallarını problem çözümlerinde kullanır.,B
-1,Matematik,46,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",A
-1,Matematik,47,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,D
-1,Matematik,48,"Yüzde, kar-zarar ve faiz problemlerini analiz eder.",E
-1,Matematik,49,Basit olayların olma olasılığını hesaplar.,D
-1,Matematik,50,Mutlak değer içeren denklem ve eşitsizlikleri çözer.,E
-1,Matematik,51,Verileri tablo ve grafiklerle temsil eder ve yorumlar.,B
-1,Matematik,52,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,A
-1,Matematik,53,İkinci dereceden denklemlerin köklerini bulur.,A
-1,Matematik,54,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",B
-1,Matematik,55,Verileri tablo ve grafiklerle temsil eder ve yorumlar.,A
-1,Matematik,56,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",C
-1,Matematik,57,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,D
-1,Matematik,58,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",E
-1,Matematik,59,İkinci dereceden denklemlerin köklerini bulur.,A
-1,Matematik,60,Fonksiyonlarda bileşke ve ters fonksiyon işlemlerini yapar.,C
-1,Matematik,61,Birinci dereceden bir bilinmeyenli denklem ve eşitsizlikleri çözer.,D
-1,Matematik,62,"İşçi, hareket ve karışım problemlerini çözer.",D
-1,Matematik,63,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,B
-1,Matematik,64,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,C
-1,Matematik,65,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,D
-1,Matematik,66,"İşçi, hareket ve karışım problemlerini çözer.",E
-1,Matematik,67,"Yüzde, kar-zarar ve faiz problemlerini analiz eder.",A
-1,Matematik,68,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,A
-1,Matematik,69,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,C
-1,Matematik,70,Polinom kavramını açıklar ve polinomlarda işlemler yapar.,E
-1,Matematik,71,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,B
-1,Matematik,72,Oran ve orantı kavramlarını kullanarak gerçek hayat problemlerini çözer.,D
-1,Matematik,73,Üslü ve köklü ifadeleri içeren işlemleri yapar.,E
-1,Matematik,74,Sayı kümeleri ve aralarındaki ilişkileri kavrar.,A
-1,Matematik,75,Mantık kurallarını kullanarak önermelerin doğruluk değerlerini belirler.,A
-1,Geometri,76,"Dönüşüm geometrisi (öteleme, dönme, simetri) kurallarını uygular.",D
-1,Geometri,77,Katı cisimlerin yüzey alanı bağıntılarını hesaplar.,A
-1,Geometri,78,Çokgenlerin temel elemanlarını ve özelliklerini kavrar.,C
-1,Geometri,79,Dik üçgende Pisagor ve Öklid teoremlerini uygulayarak problem çözer.,C
-1,Geometri,80,İki doğrunun birbirine göre durumlarını inceler.,B
-1,Tarih,81,Osmanlı Devleti'nin yükselme dönemindeki fetihleri analiz eder.,D
-1,Tarih,82,"Zaman ve takvim kavramlarını kavrar, Türklerin kullandığı takvimleri sıralar.",A
-1,Tarih,83,Türklerin İslamiyet'i kabulü ve ilk Türk-İslam devletlerinin kuruluşunu açıklar.,D
-1,Tarih,84,Osmanlı Devleti'nin kuruluş sürecindeki gelişmeleri ve iskan politikasını açıklar.,C
-1,Tarih,85,Yeni Çağ Avrupa'sındaki gelişmelerin Osmanlı'ya etkisini yorumlar.,C
-1,Cografya,86,İç kuvvetlerin yeryüzünün şekillenmesine etkisini inceler.,B
-1,Cografya,87,Doğa ve insan etkileşimini örneklerle açıklar.,D
-1,Cografya,88,Dış kuvvetlerin oluşturduğu yer şekillerini ayırt eder.,C
-1,Cografya,89,Dünyadaki ve Türkiye'deki su kaynaklarının dağılışını yorumlar.,C
-1,Cografya,90,Dünya'nın günlük ve yıllık hareketlerinin etkilerini değerlendirir.,A
-1,Felsefe,91,Siyaset felsefesinin temel kavramlarını ve problemlerini açıklar.,D
-1,Felsefe,92,Akıl yürütme türlerini ve argümantasyon kavramını kavrar.,B
-1,Felsefe,93,Felsefenin insan ve toplum hayatındaki rolünü değerlendirir.,B
-1,Felsefe,94,Sanat eserinin niteliklerini ve estetik yargıları değerlendirir.,D
-1,Felsefe,95,Varlığın mahiyetiyle ilgili temel görüşleri sınıflandırır.,C
-1,Din Kültürü ve Ahlak Bilgisi,96,İslam ahlakında yer alan bazı tutum ve davranışları değerlendirir.,E
-1,Din Kültürü ve Ahlak Bilgisi,97,Farklı din ve inanç sistemlerinin temel özelliklerini kavrar.,B
-1,Din Kültürü ve Ahlak Bilgisi,98,İslam sanatları ve estetik anlayışının özelliklerini açıklar.,D
-1,Din Kültürü ve Ahlak Bilgisi,99,Hz. Muhammed'in peygamberlik özelliklerini açıklar.,A
-1,Din Kültürü ve Ahlak Bilgisi,100,İslam ahlakının kaynaklarını ve temel prensiplerini kavrar.,C
-1,Fizik,101,"Gölge oluşumu, yansıma ve kırılma olaylarını açıklar.",B
-1,Fizik,102,"Dayanıklılık, yüzey gerilimi ve kılcallık olaylarını açıklar.",C
-1,Fizik,103,Mıknatıslar ve manyetik alan kavramlarını açıklar.,B
-1,Fizik,104,Düzgün doğrusal hareket yapan cisimlerin hareket grafiklerini çizer ve yorumlar.,C
-1,Fizik,105,Fiziksel nicelikleri sınıflandırır ve birim sistemlerini kullanır.,C
-1,Fizik,106,Basit elektrik devrelerinde eşdeğer direnç ve akım hesabı yapar.,E
-1,Fizik,107,Düzgün doğrusal hareket yapan cisimlerin hareket grafiklerini çizer ve yorumlar.,E
-1,Kimya,108,Periyodik özelliklerin değişim eğilimlerini yorumlar.,D
-1,Kimya,109,Atom modellerinin gelişimini ve temel özelliklerini özetler.,D
-1,Kimya,110,Atomun yapısını ve atom altı tanecikleri kavrar.,D
-1,Kimya,111,Karışımları ayırma yöntemlerini uygular.,D
-1,Kimya,112,"Katı, sıvı ve gazların genel özelliklerini değerlendirir.",D
-1,Kimya,113,Kimyasal türler arası güçlü etkileşimleri açıklar.,E
-1,Kimya,114,"Asitler, bazlar ve tuzların genel özelliklerini belirler.",A
-1,Biyoloji,115,Soy ağaçlarını kullanarak genetik çaprazlama problemlerini çözer.,A
-1,Biyoloji,116,Çevre kirliliğinin nedenlerini ve biyolojik çeşitliliğin önemini kavrar.,D
-1,Biyoloji,117,Çevre kirliliğinin nedenlerini ve biyolojik çeşitliliğin önemini kavrar.,D
-1,Biyoloji,118,Prokaryot ve ökaryot hücre yapılarının farklarını karşılaştırır.,E
-1,Biyoloji,119,"Mutasyon, modifikasyon ve adaptasyon kavramlarını örneklendirir.",C
-1,Biyoloji,120,Canlıların sınıflandırılmasında kullanılan kriterleri belirtir.,B
+1,Türkçe,1,Metinler arası karşılaştırma yapar.,B
+1,Türkçe,2,"Cümle türlerini (yapısına, anlamına, yükleminin türüne göre) sınıflandırır.",B
+1,Türkçe,3,"Farklı metin türlerinin (makale, deneme, fıkra vb.) özelliklerini kavrar.",B
+1,Türkçe,4,Görsel ve işitsel metinleri yorumlar.,C
+1,Türkçe,5,"Sözcük türlerini (isim, sıfat, zamir, zarf, edat, bağlaç, ünlem) metin içinde ayırt eder.",D
+1,Türkçe,6,Görsel ve işitsel metinleri yorumlar.,E
+1,Türkçe,7,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,A
+1,Türkçe,8,Cümlenin ifade ettiği anlam özelliklerini belirler.,C
+1,Türkçe,9,Metindeki ses olaylarını ayırt eder.,D
+1,Türkçe,10,Metin üzerinde yazım kurallarını ve noktalama işaretlerini uygular.,A
+1,Türkçe,11,Paragrafta anlatım biçimleri ve düşünceyi geliştirme yollarını belirler.,C
+1,Türkçe,12,Fiilimsilerin (eylemsi) metin içindeki işlevlerini belirler.,D
+1,Türkçe,13,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,D
+1,Türkçe,14,"Söz sanatlarını (teşbih, istiare, mübalağa vb.) tespit eder.",E
+1,Türkçe,15,Metindeki sözcüklerin ve söz öbeklerinin anlamlarını belirler.,A
+1,Türkçe,16,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,E
+1,Türkçe,17,"Kelimede anlam olaylarını (mecaz, yan anlam, terim anlam) ayırt eder.",E
+1,Türkçe,18,Metinler arası karşılaştırma yapar.,C
+1,Türkçe,19,"Metnin yapı özelliklerini (giriş, gelişme, sonuç) analiz eder.",B
+1,Türkçe,20,"Kelimede anlam olaylarını (mecaz, yan anlam, terim anlam) ayırt eder.",A
+1,Türkçe,21,Fiilimsilerin (eylemsi) metin içindeki işlevlerini belirler.,B
+1,Türkçe,22,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,C
+1,Türkçe,23,Fiilimsilerin (eylemsi) metin içindeki işlevlerini belirler.,C
+1,Türkçe,24,Deyimler ve atasözlerinin metne kattığı anlamı yorumlar.,A
+1,Türkçe,25,Anlatım bozukluklarının nedenlerini belirler ve düzeltir.,A
+1,Türkçe,26,Metin üzerinde yazım kurallarını ve noktalama işaretlerini uygular.,B
+1,Türkçe,27,"Cümlede anlam ilişkilerini (neden-sonuç, amaç-sonuç, koşul vb.) çözer.",C
+1,Türkçe,28,"Metnin yapı özelliklerini (giriş, gelişme, sonuç) analiz eder.",C
+1,Türkçe,29,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,B
+1,Türkçe,30,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,B
+1,Türkçe,31,Metindeki ses olaylarını ayırt eder.,D
+1,Türkçe,32,Paragrafta anlatım biçimleri ve düşünceyi geliştirme yollarını belirler.,C
+1,Türkçe,33,"Cümle türlerini (yapısına, anlamına, yükleminin türüne göre) sınıflandırır.",A
+1,Türkçe,34,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,D
+1,Türkçe,35,Cümlenin ifade ettiği anlam özelliklerini belirler.,D
+1,Türkçe,36,"Metnin yapı özelliklerini (giriş, gelişme, sonuç) analiz eder.",E
+1,Türkçe,37,"Cümlede anlam ilişkilerini (neden-sonuç, amaç-sonuç, koşul vb.) çözer.",D
+1,Türkçe,38,Paragrafta anlatım biçimleri ve düşünceyi geliştirme yollarını belirler.,E
+1,Türkçe,39,Metnin ana düşüncesini ve yardımcı düşüncelerini kavrar.,D
+1,Türkçe,40,Metindeki sözcüklerin ve söz öbeklerinin anlamlarını belirler.,A
+1,Matematik,41,"Yüzde, kar-zarar ve faiz problemlerini analiz eder.",B
+1,Matematik,42,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,A
+1,Matematik,43,"Yüzde, kar-zarar ve faiz problemlerini analiz eder.",D
+1,Matematik,44,Basit olayların olma olasılığını hesaplar.,E
+1,Matematik,45,İkinci dereceden denklemlerin köklerini bulur.,C
+1,Matematik,46,Polinom kavramını açıklar ve polinomlarda işlemler yapar.,B
+1,Matematik,47,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,D
+1,Matematik,48,Kartezyen çarpım kavramını ve özelliklerini açıklar.,E
+1,Matematik,49,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",E
+1,Matematik,50,Fonksiyonlarda bileşke ve ters fonksiyon işlemlerini yapar.,D
+1,Matematik,51,Fonksiyonlarda bileşke ve ters fonksiyon işlemlerini yapar.,C
+1,Matematik,52,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",C
+1,Matematik,53,Oran ve orantı kavramlarını kullanarak gerçek hayat problemlerini çözer.,D
+1,Matematik,54,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",E
+1,Matematik,55,Kartezyen çarpım kavramını ve özelliklerini açıklar.,C
+1,Matematik,56,Fonksiyon kavramını ve fonksiyon türlerini kavrar.,B
+1,Matematik,57,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",B
+1,Matematik,58,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,E
+1,Matematik,59,Mantık kurallarını kullanarak önermelerin doğruluk değerlerini belirler.,B
+1,Matematik,60,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,D
+1,Matematik,61,Polinom kavramını açıklar ve polinomlarda işlemler yapar.,A
+1,Matematik,62,Mantık kurallarını kullanarak önermelerin doğruluk değerlerini belirler.,E
+1,Matematik,63,EBOB ve EKOK kavramlarını problem çözümlerinde kullanır.,D
+1,Matematik,64,Fonksiyon kavramını ve fonksiyon türlerini kavrar.,E
+1,Matematik,65,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",C
+1,Matematik,66,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",E
+1,Matematik,67,Fonksiyon kavramını ve fonksiyon türlerini kavrar.,C
+1,Matematik,68,Fonksiyonlarda bileşke ve ters fonksiyon işlemlerini yapar.,D
+1,Matematik,69,"Sayı, kesir ve yaş problemlerini modelleyerek çözer.",C
+1,Matematik,70,Rasyonel sayılarda dört işlem yapar.,A
+1,Matematik,71,Basit olayların olma olasılığını hesaplar.,D
+1,Matematik,72,Verileri tablo ve grafiklerle temsil eder ve yorumlar.,D
+1,Matematik,73,"Kümelerde temel işlemleri (kesişim, birleşim, fark) yapar.",C
+1,Matematik,74,Verileri tablo ve grafiklerle temsil eder ve yorumlar.,D
+1,Matematik,75,Mantık kurallarını kullanarak önermelerin doğruluk değerlerini belirler.,C
+1,Geometri,76,Çokgenlerin temel elemanlarını ve özelliklerini kavrar.,D
+1,Geometri,77,Üçgende açıortay ve kenarortay bağıntılarını kavrar.,C
+1,Geometri,78,Daire diliminin ve parçasının alanını bulur.,A
+1,Geometri,79,"Üçgende benzerlik kurallarını (A.A., K.A.K., K.K.K.) uygular.",E
+1,Geometri,80,Dairenin çevresini ve alanını hesaplar.,B
+1,Tarih,81,Kurtuluş Savaşı cephelerindeki askeri başarıları ve diplomatik sonuçları yorumlar.,C
+1,Tarih,82,TBMM'nin açılışını ve ayaklanmaları değerlendirir.,D
+1,Tarih,83,Mudanya ve Lozan antlaşmalarının Türk tarihindeki önemini açıklar.,C
+1,Tarih,84,XIX. yüzyıl Osmanlı Devleti'ndeki dağılmayı önleme çabalarını analiz eder.,D
+1,Tarih,85,"İslamiyet'in doğuşu, yayılışı ve Dört Halife Dönemi'ni analiz eder.",E
+1,Cografya,86,Türkiye'nin iklim özelliklerini analiz eder.,B
+1,Cografya,87,"İklim elemanlarını (sıcaklık, basınç, rüzgar, nem, yağış) açıklar.",E
+1,Cografya,88,Türkiye'nin iklim özelliklerini analiz eder.,D
+1,Cografya,89,Türkiye'nin yeryüzü şekillerinin oluşum süreçlerini değerlendirir.,B
+1,Cografya,90,Dış kuvvetlerin oluşturduğu yer şekillerini ayırt eder.,E
+1,Felsefe,91,Düşünme ve ifade etmede dilin önemini açıklar.,B
+1,Felsefe,92,Din felsefesinin konusunu ve temel sorularını açıklar.,E
+1,Felsefe,93,Düşünme ve ifade etmede dilin önemini açıklar.,E
+1,Felsefe,94,Bilginin doğruluk ölçütlerini değerlendirir.,C
+1,Felsefe,95,18. yüzyıl - 19. yüzyıl felsefesinin genel özelliklerini değerlendirir.,E
+1,Din Kültürü ve Ahlak Bilgisi,96,Kur'an-ı Kerim'in ana konularını ve temel özelliklerini kavrar.,C
+1,Din Kültürü ve Ahlak Bilgisi,97,Kur'an-ı Kerim'in ana konularını ve temel özelliklerini kavrar.,A
+1,Din Kültürü ve Ahlak Bilgisi,98,"Dinlerin barış, hoşgörü ve bir arada yaşama kültürüne katkısını değerlendirir.",B
+1,Din Kültürü ve Ahlak Bilgisi,99,Türklerin İslamiyet'i kabul sürecini ve İslam'a katkılarını özetler.,B
+1,Din Kültürü ve Ahlak Bilgisi,100,Türklerin İslamiyet'i kabul sürecini ve İslam'a katkılarını özetler.,A
+1,Fizik,101,"Elektrik akımı, direnç ve potansiyel fark kavramlarını ilişkilendirir.",C
+1,Fizik,102,Mekanik enerjinin korunumunu problem çözümlerinde kullanır.,E
+1,Fizik,103,Dalgaların temel kavramlarını ve dalga çeşitlerini sınıflandırır.,C
+1,Fizik,104,"İş, enerji ve güç kavramlarını birbirleriyle ilişkilendirir.",C
+1,Fizik,105,"Dayanıklılık, yüzey gerilimi ve kılcallık olaylarını açıklar.",D
+1,Fizik,106,Dalgaların temel kavramlarını ve dalga çeşitlerini sınıflandırır.,E
+1,Fizik,107,"Dayanıklılık, yüzey gerilimi ve kılcallık olaylarını açıklar.",C
+1,Kimya,108,Kimya biliminin gelişim sürecini ve kimya disiplinlerini açıklar.,B
+1,Kimya,109,Periyodik sistemin özelliklerini ve elementlerin yerleşimini kavrar.,B
+1,Kimya,110,Kimyasal türler arası güçlü etkileşimleri açıklar.,E
+1,Kimya,111,Çözeltilerin derişim türlerini hesaplar.,B
+1,Kimya,112,Atomun yapısını ve atom altı tanecikleri kavrar.,B
+1,Kimya,113,Atomun yapısını ve atom altı tanecikleri kavrar.,B
+1,Kimya,114,Kimyanın temel kanunlarını açıklar ve hesaplamalar yapar.,C
+1,Biyoloji,115,Ekosistemde madde döngülerini ve enerji akışını analiz eder.,A
+1,Biyoloji,116,Ekosistemde madde döngülerini ve enerji akışını analiz eder.,D
+1,Biyoloji,117,Çevre kirliliğinin nedenlerini ve biyolojik çeşitliliğin önemini kavrar.,E
+1,Biyoloji,118,Ekosistemin yapısını ve temel kavramlarını açıklar.,D
+1,Biyoloji,119,Canlıların yapısında bulunan inorganik ve organik bileşikleri sınıflandırır.,A
+1,Biyoloji,120,Canlıların ortak özelliklerini kavrar.,B
